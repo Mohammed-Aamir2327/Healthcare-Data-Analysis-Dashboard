@@ -48,5 +48,9 @@ The goal of this project was to simulate a real-world healthcare analytics scena
 
 ### Dashboard Preview \Screenshots
 
--*Executive Summary Snapshot*- ![Dashboard Preview](https://github.com/Mohammed-Aamir2327/Healthcare-Data-Analysis-Dashboard/blob/main/Executive%20Summary%20Screenshot.png)
--*Patients Demographicsand Admission Snapshot*- ![Dashboard Preview](https://github.com/Mohammed-Aamir2327/Healthcare-Data-Analysis-Dashboard/blob/main/Patient%20Demographics%20and%20Admission%20Screenshot.png)
+## Executive Summary Snapshot 
+
+![Dashboard Preview](https://github.com/Mohammed-Aamir2327/Healthcare-Data-Analysis-Dashboard/blob/main/Executive%20Summary%20Screenshot.png)
+## Patients Demographicsand Admission Snapshot 
+
+![Dashboard Preview](https://github.com/Mohammed-Aamir2327/Healthcare-Data-Analysis-Dashboard/blob/main/Patient%20Demographics%20and%20Admission%20Screenshot.png)
